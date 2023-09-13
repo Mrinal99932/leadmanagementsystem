@@ -1,0 +1,87 @@
+CRITICAL - 2023-06-11 10:09:53 --> Undefined variable $users
+in APPPATH\Views\lead_signup.php on line 375.
+ 1 APPPATH\Views\lead_signup.php(375): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'C:\\xampp\\htdocs\\project1\\app\\Views\\lead_signup.php', 375)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\project1\\app\\Views\\lead_signup.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('lead_signup', [], true)
+ 5 APPPATH\Controllers\Mycontroller.php(117): view('lead_signup')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Mycontroller->index1()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mycontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-11 10:13:31 --> Undefined variable $users
+in APPPATH\Views\lead_signup.php on line 375.
+ 1 APPPATH\Views\lead_signup.php(375): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'C:\\xampp\\htdocs\\project1\\app\\Views\\lead_signup.php', 375)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\project1\\app\\Views\\lead_signup.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('lead_signup', [], true)
+ 5 APPPATH\Controllers\Mycontroller.php(117): view('lead_signup')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Mycontroller->index1()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mycontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-11 10:13:50 --> Undefined variable $users
+in APPPATH\Views\lead_signup.php on line 375.
+ 1 APPPATH\Views\lead_signup.php(375): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'C:\\xampp\\htdocs\\project1\\app\\Views\\lead_signup.php', 375)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\project1\\app\\Views\\lead_signup.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('lead_signup', [], true)
+ 5 APPPATH\Controllers\Mycontroller.php(117): view('lead_signup')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Mycontroller->index1()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mycontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-11 10:15:49 --> Undefined variable $users
+in APPPATH\Views\lead_signup.php on line 375.
+ 1 APPPATH\Views\lead_signup.php(375): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'C:\\xampp\\htdocs\\project1\\app\\Views\\lead_signup.php', 375)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\project1\\app\\Views\\lead_signup.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('lead_signup', [], true)
+ 5 APPPATH\Controllers\Mycontroller.php(117): view('lead_signup')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Mycontroller->index1()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mycontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-11 10:25:55 --> syntax error, unexpected token ";", expecting "function" or "const"
+in APPPATH\Models\UserModel1.php on line 46.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\project1\\app\\Models\\UserModel1.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UserModel1')
+ 3 APPPATH\Controllers\Mycontroller.php(137): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UserModel1')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Mycontroller->datatable2()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mycontroller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-11 10:30:07 --> syntax error, unexpected token ";", expecting "function" or "const"
+in APPPATH\Models\UserModel.php on line 46.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\project1\\app\\Models\\UserModel.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\UserModel')
+ 3 APPPATH\Controllers\Mycontroller.php(173): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\UserModel')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Mycontroller->dologin1()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mycontroller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-11 10:30:40 --> Cannot redeclare App\Models\UserModel::getuserbyid()
+in APPPATH\Models\UserModel.php on line 42.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-06-11 10:31:01 --> Undefined variable $users
+in APPPATH\Views\lead_signup.php on line 375.
+ 1 APPPATH\Views\lead_signup.php(375): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'C:\\xampp\\htdocs\\project1\\app\\Views\\lead_signup.php', 375)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\project1\\app\\Views\\lead_signup.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('lead_signup', [], true)
+ 5 APPPATH\Controllers\Mycontroller.php(117): view('lead_signup')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Mycontroller->index1()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mycontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-11 10:38:31 --> Undefined variable $users
+in APPPATH\Views\lead_signup.php on line 375.
+ 1 APPPATH\Views\lead_signup.php(375): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $users', 'C:\\xampp\\htdocs\\project1\\app\\Views\\lead_signup.php', 375)
+ 2 SYSTEMPATH\View\View.php(213): include('C:\\xampp\\htdocs\\project1\\app\\Views\\lead_signup.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('lead_signup', [], true)
+ 5 APPPATH\Controllers\Mycontroller.php(117): view('lead_signup')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Mycontroller->index1()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mycontroller))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

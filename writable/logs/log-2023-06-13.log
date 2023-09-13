@@ -1,0 +1,269 @@
+CRITICAL - 2023-06-13 13:19:42 --> Undefined variable $id
+in APPPATH\Controllers\Agentcontroller.php on line 117.
+ 1 APPPATH\Controllers\Agentcontroller.php(117): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $id', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 117)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 13:20:17 --> Cannot redeclare App\Models\UserModel1::getuserbyid()
+in APPPATH\Models\UserModel1.php on line 43.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-06-13 13:22:11 --> Cannot redeclare App\Models\UserModel1::getuserbyid()
+in APPPATH\Models\UserModel1.php on line 43.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-06-13 13:25:29 --> Cannot redeclare App\Models\UserModel1::getuserbyid()
+in APPPATH\Models\UserModel1.php on line 43.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-06-13 13:25:47 --> Cannot redeclare App\Models\UserModel1::getuserbyid()
+in APPPATH\Models\UserModel1.php on line 43.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-06-13 17:29:39 --> Undefined property: App\Controllers\Agentcontroller::$con
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined property: App\\Controllers\\Agentcontroller::$con', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:30:30 --> Undefined variable $sql
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sql', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:31:15 --> Undefined variable $sql
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sql', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:31:47 --> Undefined variable $sql
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sql', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:32:21 --> Undefined variable $sql
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sql', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:32:32 --> Undefined variable $sql
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $sql', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:32:59 --> Undefined variable $uid
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $uid', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:33:28 --> Undefined variable $uploadedby
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $uploadedby', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:34:37 --> syntax error, unexpected token "="
+in APPPATH\Controllers\Agentcontroller.php on line 112.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Agentcontroller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Agentcontroller')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Agentcontroller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:35:21 --> Undefined array key "uploadedby"
+in APPPATH\Controllers\Agentcontroller.php on line 112.
+ 1 APPPATH\Controllers\Agentcontroller.php(112): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "uploadedby"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 112)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:35:41 --> Undefined array key "id"
+in APPPATH\Controllers\Agentcontroller.php on line 112.
+ 1 APPPATH\Controllers\Agentcontroller.php(112): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 112)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:37:05 --> Undefined array key "uid"
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "uid"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:38:30 --> Undefined array key "uid"
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "uid"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:38:32 --> Undefined array key "uid"
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "uid"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:39:29 --> Undefined array key "uploadedby"
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "uploadedby"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:40:05 --> Undefined array key "lead_email"
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lead_email"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:45:54 --> Undefined array key "lead_email"
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "lead_email"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:46:30 --> Undefined array key "uploadedby"
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "uploadedby"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:48:34 --> Undefined array key "username"
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:49:03 --> Undefined array key "username"
+in APPPATH\Controllers\Agentcontroller.php on line 113.
+ 1 APPPATH\Controllers\Agentcontroller.php(113): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 113)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:50:00 --> Undefined array key "username"
+in APPPATH\Controllers\Agentcontroller.php on line 114.
+ 1 APPPATH\Controllers\Agentcontroller.php(114): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "username"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 114)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:50:23 --> Undefined array key "id"
+in APPPATH\Controllers\Agentcontroller.php on line 114.
+ 1 APPPATH\Controllers\Agentcontroller.php(114): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 114)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:51:01 --> syntax error, unexpected token ";", expecting "function" or "const"
+in APPPATH\Controllers\Agentcontroller.php on line 130.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Agentcontroller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Agentcontroller')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Agentcontroller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:51:39 --> syntax error, unexpected token ";", expecting "function" or "const"
+in APPPATH\Controllers\Agentcontroller.php on line 132.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Agentcontroller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Agentcontroller')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Agentcontroller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:52:11 --> syntax error, unexpected token ";", expecting "function" or "const"
+in APPPATH\Controllers\Agentcontroller.php on line 132.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Agentcontroller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Agentcontroller')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Agentcontroller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:52:29 --> Unclosed '{' on line 110
+in APPPATH\Controllers\Agentcontroller.php on line 132.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Agentcontroller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Agentcontroller')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Agentcontroller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:52:51 --> syntax error, unexpected token ";", expecting "function" or "const"
+in APPPATH\Controllers\Agentcontroller.php on line 132.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Agentcontroller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Agentcontroller')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Agentcontroller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:53:23 --> Undefined array key "id"
+in APPPATH\Controllers\Agentcontroller.php on line 114.
+ 1 APPPATH\Controllers\Agentcontroller.php(114): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "id"', 'C:\\xampp\\htdocs\\project1\\app\\Controllers\\Agentcontroller.php', 114)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Agentcontroller->datatable3()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Agentcontroller))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 17:57:28 --> Cannot use temporary expression in write context
+in APPPATH\Controllers\Agentcontroller.php on line 114.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-06-13 17:58:16 --> Cannot use temporary expression in write context
+in APPPATH\Controllers\Agentcontroller.php on line 114.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-06-13 17:58:30 --> Cannot use temporary expression in write context
+in APPPATH\Controllers\Agentcontroller.php on line 114.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-06-13 17:59:00 --> Cannot use temporary expression in write context
+in APPPATH\Controllers\Agentcontroller.php on line 114.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-06-13 18:13:03 --> syntax error, unexpected token "public", expecting end of file
+in APPPATH\Controllers\Admincontroller.php on line 71.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\project1\\app\\Controllers\\Admincontroller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Admincontroller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Admincontroller')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Admincontroller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 18:19:50 --> Cannot use temporary expression in write context
+in APPPATH\Controllers\Agentcontroller.php on line 114.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-06-13 18:20:22 --> Cannot use temporary expression in write context
+in APPPATH\Controllers\Agentcontroller.php on line 114.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-06-13 18:35:22 --> syntax error, unexpected identifier "error", expecting ";"
+in APPPATH\Controllers\Admincontroller.php on line 74.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(289): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\project1\\app\\Controllers\\Admincontroller.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(267): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Admincontroller')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Admincontroller')
+ 4 SYSTEMPATH\CodeIgniter.php(892): class_exists('\\App\\Controllers\\Admincontroller', true)
+ 5 SYSTEMPATH\CodeIgniter.php(486): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-06-13 18:48:41 --> Cannot redeclare App\Models\UserModel1::getuserbyid()
+in APPPATH\Models\UserModel1.php on line 43.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-06-13 18:49:12 --> Cannot redeclare App\Models\UserModel1::getuserbyid()
+in APPPATH\Models\UserModel1.php on line 43.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()

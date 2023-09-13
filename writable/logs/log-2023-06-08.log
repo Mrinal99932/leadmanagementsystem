@@ -1,0 +1,9 @@
+CRITICAL - 2023-06-08 10:04:48 --> Invalid file: "error2.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('error2.php')
+ 2 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('error2', [], true)
+ 3 APPPATH\Controllers\Mycontroller.php(168): view('error2')
+ 4 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Mycontroller->dologin1()
+ 5 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Mycontroller))
+ 6 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
